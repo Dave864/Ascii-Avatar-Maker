@@ -29,7 +29,7 @@ to the LCD screen
  - Right Button: Loads the current pattern onto the LCD screen
  - Joystick: Moves the cursor around the LED interface
 
-[Video Demo]: https://www.youtube.com/watch?v=VSpaqil_ayc/ "Video Demo"
+[Video Demo](https://www.youtube.com/watch?v=VSpaqil_ayc/ "Video Demo")
 
 ######Bugs
 - Pressing the color and erase buttons simultaneuosly will not affect the pixel under
