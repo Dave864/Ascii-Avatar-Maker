@@ -15,9 +15,9 @@ The description of the controls assume that the board is oriented in this manner
 ######Controls and Interface
 - Interface
   - The LED display is where the pattern for the ascii character will be created
-   - The space that can be worked in is indicated by orange columns
-   - The current character is displayed in green
-   - There is a red blinking cursor indicating which pixel will be edited
+    - The space that can be worked in is indicated by orange columns
+    - The current character is displayed in green
+    - There is a red blinking cursor indicating which pixel will be edited
  - The LCD screen is where the custom ascii character will be displayed when 
 completed
  - The buttons are used to erase and color pixels as well as load the current pattern
@@ -29,7 +29,7 @@ to the LCD screen
  - Right Button: Loads the current pattern onto the LCD screen
  - Joystick: Moves the cursor around the LED interface
 
-[Video Demo]: https://www.youtube.com/watch?v=VSpaqil_ayc
+[Video Demo]: https://www.youtube.com/watch?v=VSpaqil_ayc/ "Video Demo"
 
 ######Bugs
 - Pressing the color and erase buttons simultaneuosly will not affect the pixel under
